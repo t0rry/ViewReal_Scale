@@ -41,3 +41,6 @@ Blender の 3D ビューポートを、画面上で**実寸**に見えるよう�
 ```
 "C:\Program Files\Blender Foundation\Blender 5.2\blender.exe" --factory-startup --command extension build --source-dir viewreal --output-dir dist
 ```
+
+## ライセンス
+GPL-3.0-or-later（[LICENSE](LICENSE)）

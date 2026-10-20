@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 # ViewReal: ディスプレイの物理サイズをもとに、3D ビューポートを実寸表示にズームするアドオン
 
 import math
