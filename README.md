@@ -8,9 +8,11 @@ Blender の 3D ビューポートを、画面上で**実寸**に見えるよう�
 - 解像度の自動取得は Windows のみ（他の OS は Manual で入力）
 
 ## インストール
+最新版の zip は [Releases](https://github.com/t0rry/ViewReal_Scale/releases/latest) からダウンロードできます。
+
 1. Blender の `Edit > Preferences > Get Extensions` を開く
 2. 右上の ▼ メニューから `Install from Disk...` を選ぶ
-3. `dist/viewreal-1.1.0.zip` を選ぶ
+3. ダウンロードした zip（または `dist/viewreal-1.1.0.zip`）を選ぶ
 
 ## 使い方
 1. 3D ビューポートで `N` キーを押してサイドバーを開き、`Item` タブの「ViewReal」パネルを見る
